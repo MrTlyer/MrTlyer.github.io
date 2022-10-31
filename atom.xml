@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr.Tlyer&#39;s Blog</title>
+  
+  
+  <link href="https://hexo.ntnas.top/atom.xml" rel="self"/>
+  
+  <link href="https://hexo.ntnas.top/"/>
+  <updated>2022-10-31T08:48:19.129Z</updated>
+  <id>https://hexo.ntnas.top/</id>
+  
+  <author>
+    <name>Mr.Tlyer</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hexo.ntnas.top/2022/10/31/hello-world/"/>
+    <id>https://hexo.ntnas.top/2022/10/31/hello-world/</id>
+    <published>2022-10-31T08:48:19.129Z</published>
+    <updated>2022-10-31T08:48:19.129Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>10/31更新直播源</title>
+    <link href="https://hexo.ntnas.top/2022/10/31/2/"/>
+    <id>https://hexo.ntnas.top/2022/10/31/2/</id>
+    <published>2022-10-31T08:48:19.128Z</published>
+    <updated>2022-10-31T08:48:19.129Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h4 id="gt-10-31更新直播源"><a href="#gt-10-31更新直播源" class="headerlink" title="&gt; 10/31更新直播源"></a>&gt; 10/31更新直播源</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">#EXTM3U</span><br><span class="line">#EXTINF:-1 ,CHC高清电影</span><br><span class="line">http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8?blog.ntnas.top</span><br><span class="line">#EXTINF:-1 ,CHC家庭影院</span><br><span class="line">http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8?blog.ntnas.top</span><br><span class="line">#EXTINF:-1 ,CHC动作电影</span><br><span class="line">http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?blog.ntnas.top</span><br><span class="line">#EXTINF:-1 ,WWE</span><br><span class="line">http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&amp;ct=18393&amp;tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc</span><br><span class="line">#EXTINF:-1 ,东森新闻</span><br><span class="line">http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw</span><br><span class="line">#EXTINF:-1 ,中天新闻</span><br><span class="line">http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw</span><br><span class="line">#EXTINF:-1 ,民視新聞HD</span><br><span class="line">http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw</span><br><span class="line">#EXTINF:-1 ,寰宇新闻</span><br><span class="line">http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h4 id=&quot;gt-10-31更新直播源&quot;&gt;&lt;a href=&quot;#gt-1</summary>
+      
+    
+    
+    
+    <category term="网络日志" scheme="https://hexo.ntnas.top/categories/%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="直播源" scheme="https://hexo.ntnas.top/tags/%E7%9B%B4%E6%92%AD%E6%BA%90/"/>
+    
+    <category term="m3u8" scheme="https://hexo.ntnas.top/tags/m3u8/"/>
+    
+    <category term="m3u" scheme="https://hexo.ntnas.top/tags/m3u/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>10/30更新直播源</title>
+    <link href="https://hexo.ntnas.top/2022/10/31/1/"/>
+    <id>https://hexo.ntnas.top/2022/10/31/1/</id>
+    <published>2022-10-31T08:48:19.128Z</published>
+    <updated>2022-10-31T08:48:19.128Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h4 id="gt-10-30更新直播源"><a href="#gt-10-30更新直播源" class="headerlink" title="&gt; 10/30更新直播源"></a>&gt; 10/30更新直播源</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">#EXTM3U</span><br><span class="line">#EXTINF:-1 ,台湾-大立电视台</span><br><span class="line">http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top</span><br><span class="line">#EXTINF:-1 ,曼联MUTV</span><br><span class="line">https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8?blog.ntnas.top</span><br><span class="line">#EXTINF:-1 ,新疆卫视</span><br><span class="line">http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&amp;txTime=95A66658</span><br><span class="line">#EXTINF:-1 ,新疆哈语综合</span><br><span class="line">http://livehyw5.chinamcache.com/hyw/zb03.m3u8?txSecret=ec6716d9478a6e72bbf7e79969c4fd13&amp;txTime=95A66658</span><br><span class="line">#EXTINF:-1 ,新疆哈语综艺</span><br><span class="line">http://livehyw5.chinamcache.com/hyw/zb08.m3u8?txSecret=64144bee74a2860eca3c60e37fb449bb&amp;txTime=95A66658</span><br><span class="line">#EXTINF:-1 ,新疆经济生活</span><br><span class="line">http://livehyw5.chinamcache.com/hyw/zb07.m3u8?txSecret=49511a59e866d45d73782afa6768da2d&amp;txTime=95A66658</span><br><span class="line">#EXTINF:-1 ,新疆维语经济生活</span><br><span class="line">http://livehyw5.chinamcache.com/hyw/zb09.m3u8?txSecret=181d053f140036a2dab3debb05d1cb59&amp;txTime=95A66658</span><br><span class="line">#EXTINF:-1 ,影院4k</span><br><span class="line">http://epg.112114.xyz/douyu/9249162</span><br><span class="line">#EXTINF:-1 ,香港有线直播新闻台</span><br><span class="line">https://api.leonardpark.dev/live/icable/110</span><br><span class="line">#EXTINF:-1 ,香港有线财经资讯台</span><br><span class="line">https://api.leonardpark.dev/live/icable/108</span><br><span class="line">#EXTINF:-1 ,香港RTHK31 HD</span><br><span class="line">https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?blog.ntnas.top</span><br><span class="line">#EXTINF:-1 ,香港RTHK32 HD</span><br><span class="line">https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?blog.ntnas.top</span><br><span class="line">#EXTINF:-1 ,上海外滩魔眼</span><br><span class="line">rtmp://bililive.kksmg.com/hls/sdi80</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h4 id=&quot;gt-10-30更新直播源&quot;&gt;&lt;a href=&quot;#gt-1</summary>
+      
+    
+    
+    
+    <category term="网络日志" scheme="https://hexo.ntnas.top/categories/%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="直播源" scheme="https://hexo.ntnas.top/tags/%E7%9B%B4%E6%92%AD%E6%BA%90/"/>
+    
+    <category term="m3u8" scheme="https://hexo.ntnas.top/tags/m3u8/"/>
+    
+    <category term="m3u" scheme="https://hexo.ntnas.top/tags/m3u/"/>
+    
+  </entry>
+  
+</feed>
